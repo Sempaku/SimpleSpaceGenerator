@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceGenerator.Gui", "SpaceGenerator.Gui\SpaceGenerator.Gui.csproj", "{978F875A-62C0-4082-A7E9-D4B1D966E754}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceGenerator.Lib", "SpaceGenerator.Lib\SpaceGenerator.Lib.csproj", "{F07F802E-285E-4CB6-A1E8-CA9F9D855211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978F875A-62C0-4082-A7E9-D4B1D966E754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978F875A-62C0-4082-A7E9-D4B1D966E754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978F875A-62C0-4082-A7E9-D4B1D966E754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978F875A-62C0-4082-A7E9-D4B1D966E754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07F802E-285E-4CB6-A1E8-CA9F9D855211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07F802E-285E-4CB6-A1E8-CA9F9D855211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07F802E-285E-4CB6-A1E8-CA9F9D855211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07F802E-285E-4CB6-A1E8-CA9F9D855211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14218CB6-E2E8-4F9B-BADA-6B54732632AE}
+	EndGlobalSection
+EndGlobal
